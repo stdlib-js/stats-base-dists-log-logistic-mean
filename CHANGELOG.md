@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`88234e7`](https://github.com/stdlib-js/stdlib/commit/88234e7886ce7a9606c595950d45a0e824ba61ba) - **style:** add missing parentheses _(by Athan Reines)_
+-   [`9be3f0e`](https://github.com/stdlib-js/stdlib/commit/9be3f0eac2cff3869d3811ddb285558ae2dc7b69) - **refactor:** avoid duplicated computation _(by Athan Reines)_
 -   [`1fa83d8`](https://github.com/stdlib-js/stdlib/commit/1fa83d83893fb97733d382d860bdb30c172edd53) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`0e72a75`](https://github.com/stdlib-js/stdlib/commit/0e72a753c7aba1ea72cbb4a6d71ef9731f944460) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`f8cdc1b`](https://github.com/stdlib-js/stdlib/commit/f8cdc1b698a9a0a2913d44b40ac5c975f175e4ff) - **feat:** add `stats/base/dists/log-logistic/mean` [(#11221)](https://github.com/stdlib-js/stdlib/pull/11221) _(by Partha Das, Neeraj Pathak, Philipp Burckhardt)_
